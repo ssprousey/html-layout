@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+.box1 {
+  background-color: blue;
+  height: 600px;
+  width: 33%;
+  float: right;
+}
+
+.box2 {
+  background-color: green;
+  height: 600px;
+  width: 33%;
+  float: right;
+}
+
+.box3 {
+  background-color: yellow;
+  height: 600px;
+  width: 33%;
+  float: right;
+}
+
+.image {
+  
+}
