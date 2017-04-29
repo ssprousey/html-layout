@@ -1,5 +1,6 @@
 body {
-  display: block;
+  margin: 0px;
+
 }
 .box1 {
   background-color: #00bcd4;
@@ -20,14 +21,16 @@ body {
   height: 625px;
   width: 33%;
   float: left;
+  position: relative;
 }
 
-.imageplaceholder {
-  font-family: sans-serif;
-}
-
-.box {
-  height: 75;
+.box4 {
+  height: 75px;
   width: 100%;
+  position: absolute;
   background-color: red;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
