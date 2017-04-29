@@ -1,7 +1,15 @@
-#small {
-  width: 25px;
-  height: 25px;
-  float: left;
+body {
+  margin: auto;
+}
+
+.small {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  background-color: rgb(74, 144, 226);
+  top: 15px;
+  left: 15px;
+  display: flex;
 }
 
 .box {
