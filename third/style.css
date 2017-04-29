@@ -1,0 +1,42 @@
+#small {
+  width: 25px;
+  height: 25px;
+  float: left;
+}
+
+.box {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+#gray {
+  background-color: rgb(216, 216, 216);
+}
+
+.white {
+  background-color: white;
+  font-family: 'Muli', sans-serif;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.blue {
+  background-color: rgb(74, 144, 226);
+}
+
+.green {
+  background-color: rgb(80, 227, 194);
+}
+
+.green2 {
+  background-color: rgb(184, 233, 134);
+}
+
+.yellow {
+  background-color: rgb(248, 231, 28);
+}
