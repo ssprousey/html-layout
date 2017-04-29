@@ -1,28 +1,33 @@
 body {
-  margin: 0;
-  box-sizing: border-box;
+  display: block;
 }
 .box1 {
-  background-color: blue;
-  height: 600px;
+  background-color: #00bcd4;
+  height: 625px;
   width: 33%;
-  float: right;
+  float: left;
 }
 
 .box2 {
-  background-color: green;
-  height: 600px;
+  background-color: #8bc34a;
+  height: 625px;
   width: 33%;
-  float: right;
+  float: left;
 }
 
 .box3 {
-  background-color: yellow;
-  height: 600px;
+  background-color: #f3e56f;
+  height: 625px;
   width: 33%;
-  float: right;
+  float: left;
 }
 
-.image {
-  
+.imageplaceholder {
+  font-family: sans-serif;
+}
+
+.box {
+  height: 75;
+  width: 100%;
+  background-color: red;
 }
